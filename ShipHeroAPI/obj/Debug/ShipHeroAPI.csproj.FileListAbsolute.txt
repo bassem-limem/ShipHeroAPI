@@ -1,0 +1,7 @@
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\bin\Debug\ShipHeroAPI.dll
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\bin\Debug\ShipHeroAPI.pdb
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\bin\Debug\Newtonsoft.Json.dll
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\bin\Debug\Newtonsoft.Json.xml
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\obj\Debug\ShipHeroAPI.csprojResolveAssemblyReference.cache
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\obj\Debug\ShipHeroAPI.dll
+C:\WorkspacesVSTS\Nift\ShipHeroAPI\obj\Debug\ShipHeroAPI.pdb
